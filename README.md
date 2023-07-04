@@ -2,20 +2,20 @@
 
 
 
-个人收集并精选的Telegram频道合集
+**个人收集并精选的Telegram频道合集**
 
 
 
 
 
 
-NEWS 新闻资讯类：
+**NEWS 新闻资讯类：**
 
 
 
 
 
-权威媒体新闻：
+**权威媒体新闻：**
 
 
 维基新闻（中立）: https://t.me/wikinews_zh_broadcast
@@ -42,11 +42,11 @@ BBC 中文: https://t.me/bbczhongwen_rss
 
 美国之音: https://t.me/meiguozhiyin_rss
 
-杂志期刊：
+**杂志期刊：**
 國家地理雜誌 中文版: https://t.me/natgeomedia
 
 
-政要：
+**政要：**
 
 澳门政府官方 Telegram 頻道:  https://t.me/leehsienloong
 
@@ -73,7 +73,7 @@ BBC 中文: https://t.me/bbczhongwen_rss
 •	Donald Trump Jr:   https://t.me/TrumpJr
 
 
-数字媒体新闻：
+**数字媒体新闻：**
 
 
 看鉴中国 OutsightChina:   https://t.me/OutsightChina
@@ -102,7 +102,7 @@ BBC 中文: https://t.me/bbczhongwen_rss
 
 
 
-个人自媒体新闻
+**个人自媒体新闻**
 
 
 Solidot（奇客的资讯，重要的东西）: https://t.me/solidot
@@ -116,7 +116,7 @@ Outvivid: https://t.me/outvivid
 电报时报: https://t.me/times001
 
 
-快讯：
+**快讯：**
 
 
 风向旗参考快讯: https://t.me/xhqcankao
@@ -125,7 +125,7 @@ Outvivid: https://t.me/outvivid
 
 
 
-科技资讯
+**科技资讯**
 
 
 科技花（TestFlight）:  https://t.me/TestFlightCN
@@ -151,7 +151,7 @@ PT 资讯频道: https://t.me/privatetrackernews
 开源社区频道: https://t.me/opencfdchannel
 
 
-Linux资讯：
+**Linux资讯：**
 
 
 Linux 中国: https://t.me/linuxdotcn
@@ -162,7 +162,7 @@ Arch Linux Updates: https://t.me/archlinuxcn_updates
 
 
 
-Resource 资源类：
+**Resource 资源类：**
 
 
 免費資源網路社群 Free Group: https://t.me/Free_Group
@@ -206,15 +206,15 @@ Zapro Notice: https://t.me/zaproshare
 
 Zero の电影院线(带网站推荐) Channel: https://t.me/zerodemovie
 
-PDF 资料: http 115 
+PDF 资料:https://t.me/pdf_001
 
-资源 - 懒狗集中营: https://t.me/vip115hots: //t.me/pdf_001
+115 资源 - 懒狗集中营:https://t.me/vip115hot
 
 擅长搜索的高木同学: https://t.me/gaomutongxue
 
 
 
-Politics 政治类;
+**Politics 政治类：**
 
 
 新蛤社: https://t.me/XinHaNewsAgency
@@ -229,11 +229,11 @@ Politics 政治类;
 
 
 
-GFW 翻墙类
+**GFW 翻墙类**
 
 
 
-翻墙相关：
+**翻墙相关：**
 
 
 V1 Blog 科技 生活 SpeedTest 主机评测: https://t.me/V1_BLOG
@@ -268,7 +268,7 @@ eSir Playground 固件 & 插件发布频道: https://t.me/joinchat/AAAAAE-8dVyO8
 
 
 
-Surge：
+**Surge：**
 
 
 Surge 开发者的频道: https://t.me/yachme
@@ -276,7 +276,7 @@ Surge 开发者的频道: https://t.me/yachme
 Surge News: https://t.me/surgenews
 
 
-Shadowrocket：
+**Shadowrocket：**
 
 
 Shadowrocket小火箭：
@@ -285,7 +285,7 @@ Shadowrocket News: https://t.me/ShadowrocketNews
 
 
 
-QX：
+**QX：**
 Quantumult News: https://t.me/QuanXNews
 
 
@@ -294,7 +294,7 @@ Quantumult X JS 收集分享: https://t.me/QuanXJS
 QuantumultX & Surge 脚本收集: https://t.me/NobyDa
 
 
-Clash：
+**Clash：**
 
 
 Clash for Android Channel: https://t.me/clash_for_android_channel
@@ -309,7 +309,7 @@ Clash (R) for Windows 公告板: https://t.me/ClashR_for_Windows_Channel
 
 
 
-免费节点：
+**免费节点：**
 
 
 SS 节点免费发放: https://t.me/sslist
@@ -323,7 +323,7 @@ MTPROTO 公益代理发放频道: https://t.me/onessr
 Free Telegram proxy: https://t.me/proxyme
 
 
-翻墙机场评测：
+**翻墙机场评测：**
 
 
 （业内知名）毒药机场测速 SS/SSR: https://t.me/DuyaoSS
@@ -338,7 +338,7 @@ VPN 测评 - 各类 VPN 相关资讯 + 真实测评: https://t.me/VPNceping
 
 
 
-VPS+主机类：
+**VPS+主机类：**
 
 
 
@@ -352,7 +352,7 @@ VPS 仓 - 推荐 / 补货提醒: https://t.me/vpscang
 
 
 
-BOOK 书籍类：
+**BOOK 书籍类：**
 
 
 文杏馆（藏书分享）: https://t.me/BooksThatMakeYouThink
@@ -384,7 +384,7 @@ zread (推) - 什么书值得读: https://t.me/zreadpush
 Matters 閲讀精選: https://t.me/MattersHub
 
 
-播客&音乐：
+**播客&音乐：**
 
 
 读舍 FM:  https://t.me/bookcn
@@ -399,7 +399,7 @@ Matters 閲讀精選: https://t.me/MattersHub
 
 
 
-Netflix类：
+**Netflix类：**
 
 
 Netflix 高分好剧推介: https://t.me/NetflixFans
@@ -410,7 +410,7 @@ RARTV: https://t.me/rartv
 
 
 
-Finance 金融&币圈类：
+**Finance 金融&币圈类：**
 
 FT 中文网（FT中文网是英国《金融时报》唯一的非英语网站）: https://t.me/ftzhongwen_rss
 
@@ -422,10 +422,10 @@ FT 中文网（FT中文网是英国《金融时报》唯一的非英语网站）
 
 
 
-Daily 日常类
+**Daily 日常类**
 
 
-GHS&二次元：
+**GHS&二次元：**
 
 
 嗶咔漫畫官方頻道Picacomic News: https://t.me/PicACG
@@ -449,7 +449,7 @@ PIXIV站每日 Top50搬运:  https://t.me/pixiv_top50
 萌图:  https://t.me/ovov1234
 
 
-购物特销售打折：
+**购物特销售打折：**
 
 
 
@@ -459,13 +459,13 @@ PIXIV站每日 Top50搬运:  https://t.me/pixiv_top50
 
 
 
-GOOGLE VOICE: 
+**GOOGLE VOICE:**
 
 
 Google Voice 靓号: https://t.me/voice_google
 
 
-娱乐日常
+**娱乐日常**
 
 
 科技圈的日常: https://t.me/misakatech
@@ -493,7 +493,7 @@ DLK 搞笑趣闻情报站: https://t.me/dlkqingbaozhan
 音游沙雕频道: https://t.me/yingyoushadiao
 
 
-薅羊毛：
+**薅羊毛：**
 
 
 羊毛收割机・好物: https://t.me/ZHwool
@@ -506,7 +506,7 @@ DLK 搞笑趣闻情报站: https://t.me/dlkqingbaozhan
 
 
 
-个人Blog类：
+**个人Blog类：**
 
 
 Find Blog👁发现博客: https://t.me/findblog
@@ -545,7 +545,7 @@ zrj766 的频道: https://t.me/zrj96
 日常人间观察: https://t.me/hayami_kiraa
 
 
-合作拼车类：
+**合作拼车类：**
 
 Licenses Channel: https://t.me/Licensesss
 
@@ -554,7 +554,7 @@ Licenses Channel: https://t.me/Licensesss
 奈飞小铺: https://t.me/netflix_bus
 
 
-Other 其他类：
+**Other 其他类：**
 
 
 二手🐴: https://t.me/SecHorse
@@ -579,7 +579,7 @@ Tesla China 🅥: https://t.me/Teslacn
 
 
 
-软件折扣消息：
+**软件折扣消息：**
 限時免費 LimitFree: https://t.me/limitfree
 
 Google Play 限免信息: https://t.me/playsales
@@ -593,7 +593,7 @@ David’s YouTube 频道推荐: https://t.me/davidsyoutube
 瞎玩菌: https://t.me/blindgamer
 
 
-软件官方：
+**软件官方：**
 
 Snipaste: https://t.me/snipaste
 
@@ -603,7 +603,10 @@ Z-Turns: https://t.me/Z_Turns
 
 黑洞资源笔记（计算机）：https://t.me/Piracy6
 
-Steam打折：
+
+
+
+**Steam打折：**
 
 
 你有一个打折需要了解: https://t.me/SteamNy
