@@ -9,7 +9,7 @@
 
 
 
-**NEWS 新闻资讯类：**
+***NEWS 新闻资讯类：***
 
 
 
@@ -42,7 +42,11 @@ BBC 中文: https://t.me/bbczhongwen_rss
 
 美国之音: https://t.me/meiguozhiyin_rss
 
+
+
 **杂志期刊：**
+
+
 國家地理雜誌 中文版: https://t.me/natgeomedia
 
 
@@ -162,7 +166,7 @@ Arch Linux Updates: https://t.me/archlinuxcn_updates
 
 
 
-**Resource 资源类：**
+***Resource 资源类：***
 
 
 免費資源網路社群 Free Group: https://t.me/Free_Group
@@ -214,7 +218,7 @@ PDF 资料:https://t.me/pdf_001
 
 
 
-**Politics 政治类：**
+***Politics 政治类：***
 
 
 新蛤社: https://t.me/XinHaNewsAgency
@@ -229,7 +233,7 @@ PDF 资料:https://t.me/pdf_001
 
 
 
-**GFW 翻墙类**
+***GFW 翻墙类***
 
 
 
@@ -352,7 +356,7 @@ VPS 仓 - 推荐 / 补货提醒: https://t.me/vpscang
 
 
 
-**BOOK 书籍类：**
+***BOOK 书籍类：***
 
 
 文杏馆（藏书分享）: https://t.me/BooksThatMakeYouThink
@@ -410,7 +414,7 @@ RARTV: https://t.me/rartv
 
 
 
-**Finance 金融&币圈类：**
+***Finance 金融&币圈类：***
 
 FT 中文网（FT中文网是英国《金融时报》唯一的非英语网站）: https://t.me/ftzhongwen_rss
 
@@ -422,7 +426,7 @@ FT 中文网（FT中文网是英国《金融时报》唯一的非英语网站）
 
 
 
-**Daily 日常类**
+***Daily 日常类***
 
 
 **GHS&二次元：**
